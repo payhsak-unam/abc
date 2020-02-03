@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hgv</string>
+    <string name="invalid_lat_long_used">invalidlatlng</string>
+    <string name="service_not_available">service not available</string>
+    <string name="no_address_found">no address found</string>
+    <string name="address_found">address found</string>
+</resources>
